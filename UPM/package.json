@@ -1,0 +1,22 @@
+{
+  "name": "com.ppool.chat",
+  "version": "1.2.3",
+  "displayName": "PPool ChatSDK",
+  "description": "This is an example package",
+  "unity": "2021.3",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    "com.unity.some-package": "1.0.0",
+    "com.unity.other-package": "2.0.0"
+ },
+ "samples": [
+        {
+          "displayName": "ChatSDK Sample",
+          "description": "ChatSDK Sample description.",
+          "path": "Samples~/Sample"
+        }
+    ]
+}
